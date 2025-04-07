@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a love for coding and problem-solving. I enjoy working on innovative projects and continuously learning new technologies.
 
-- 🎓 **Education**: I have a degree in Computer Science and currently pursuing MSc in Information Technology at Cardiff Metropolitan University.
+- 🎓 **Education**: I hold a Bachelor's degree in Business Information System and am currently pursuing a Master’s in Information Technology at Cardiff Metropolitan University.
 - 💼 **Current Role**: Software Developer at Scienter Technologies PTE.
 - 🌱 **Currently Learning**: Advanced algorithms, Machine Learning, and Cloud Computing.
 - 💬 **Ask me about**: JavaScript, Python, React, and Node.js.

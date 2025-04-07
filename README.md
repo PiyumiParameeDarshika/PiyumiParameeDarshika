@@ -1,6 +1,5 @@
 # Hi there, I'm Piyumi Paramee Darshika! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=PiyumiParameeDarshika&color=blue)
 
 ## 🚀 About Me
 

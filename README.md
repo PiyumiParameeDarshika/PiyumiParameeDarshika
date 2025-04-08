@@ -1,15 +1,24 @@
-# Hi there, I'm Piyumi Paramee Darshika! 👋
+# Welcome to My GitHub Profile! 🌟
 
+👨‍💻 About Me
 
-## 🚀 About Me
+Hello! I'm Piyumi, a passionate Software Developer at Scienter Technologies PTE, with a strong foundation in Business Information Systems and a growing expertise in Information Technology. I'm driven by curiosity and a relentless desire to innovate through modern technologies.
 
-I'm a passionate developer with a love for coding and problem-solving. I enjoy working on innovative projects and continuously learning new technologies.
+🎓 Education:
+- BSc in Business Information Systems
+- MSc in Information Technology (Currently Pursuing)
 
-- 🎓 **Education**: I hold a Bachelor's degree in Business Information System and am currently pursuing a Master’s in Information Technology at Cardiff Metropolitan University.
-- 💼 **Current Role**: Software Developer at Scienter Technologies PTE.
-- 🌱 **Currently Learning**: Advanced algorithms, Machine Learning, and Cloud Computing.
-- 💬 **Ask me about**: JavaScript, Python, React, and Node.js.
-- 📫 **How to reach me**: [Email](mailto:your-email@example.com)
+🌐 Technologies I Work With:
+- **Languages:** ASP.NET MVC | .NET Core | HTML | JavaScript
+- **Frameworks & Libraries:** Angular | Bootstrap
+- **Databases:** MS SQL
+- **Tools:** Git | Docker | GitHub
+
+🧠 Current Learning Journey:
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Cloud Computing
+
 
 ## 🔧 Technologies & Tools
 
@@ -17,7 +26,6 @@ I'm a passionate developer with a love for coding and problem-solving. I enjoy w
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)

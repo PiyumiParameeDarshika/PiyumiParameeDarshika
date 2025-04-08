@@ -13,6 +13,7 @@ Hello! I'm Piyumi, a passionate Software Developer at Scienter Technologies PTE,
 - **Frameworks & Libraries:** Angular | Bootstrap
 - **Databases:** MS SQL
 - **Tools:** Git | Docker | GitHub
+- **Version Control:** Git | GitHub | TFS | Jira
 
 🧠 Current Learning Journey:
 - Artificial Intelligence (AI)

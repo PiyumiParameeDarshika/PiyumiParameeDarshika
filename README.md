@@ -11,6 +11,8 @@ Hello! I'm Piyumi, a passionate Software Developer at Scienter Technologies PTE,
 🌐 Technologies I Work With:
 - **Languages:** ASP.NET MVC | .NET Core | HTML | JavaScript
 - **Frameworks & Libraries:** Angular | Bootstrap
+- **Frontend Development:** HTML | Bootstrap | JavaScript | Angular
+- **Backend Development:** ASP.NET MVC | .NET Core | MS SQL
 - **Databases:** MS SQL
 - **Tools:** Git | Docker | GitHub
 - **Version Control:** Git | GitHub | TFS | Jira
